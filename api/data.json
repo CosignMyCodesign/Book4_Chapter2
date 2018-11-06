@@ -1,0 +1,86 @@
+{
+  "legoCreation": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow"
+    },
+    {
+      "creator": "Dillon",
+      "color": "Blue",
+      "shape": "Pentagonal",
+      "creation": "Cern",
+      "id": 2
+    },
+    {
+      "creator": "Bob",
+      "color": "Brown",
+      "shape": "Round",
+      "creation": "Burger",
+      "id": 3
+    },
+    {
+      "creator": "Ken",
+      "color": "2",
+      "shape": "star",
+      "creation": "Green Star",
+      "id": 4
+    },
+    {
+      "creator": "Umm",
+      "color": "4",
+      "shape": "DoesThis",
+      "creation": "Work",
+      "id": 5
+    },
+    {
+      "creator": "I_think",
+      "color": "5",
+      "shape": "that_this",
+      "creation": "will_work",
+      "id": 6
+    },
+    {
+      "creator": "Blah",
+      "color": "4",
+      "shape": "bleep",
+      "creation": "bloop",
+      "id": 7
+    },
+    {
+      "creator": "NotSure",
+      "color": "6",
+      "shape": "IfThisIs",
+      "creation": "Right_but_maybe?",
+      "id": 8
+    }
+  ],
+  "color": [
+    {
+      "id": 1,
+      "name": "Red"
+    },
+    {
+      "id": 2,
+      "name": "Green"
+    },
+    {
+      "id": 3,
+      "name": "Yellow"
+    },
+    {
+      "id": 4,
+      "name": "Blue"
+    },
+    {
+      "id": 5,
+      "name": "Orange"
+    },
+    {
+      "id": 6,
+      "name": "Black"
+    }
+  ]
+}
